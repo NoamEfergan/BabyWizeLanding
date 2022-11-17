@@ -41,10 +41,6 @@ features:
 
   - title: Fully accessible!
     description: Any font size, from smallest to largest, is fully supported in the app!
-    fontawesome_icon_name: people-group
-
-  - title: Made with love, by a parent - for parents
-    description: Here to be the helping hand that you might need
     fontawesome_icon_name: heart
 
 # Theme Settings
