@@ -31,8 +31,8 @@ features:
     description: Quick to load, quick to use, spend less time on the app and more time with your child!
     fontawesome_icon_name: bolt
 
-  - title: Customisable
-    description: Ml? oz? you decide!
+  - title: Adjustable
+    description: Choose whichever unit of measurement you like, and choose between joint charts or separated ones!
     fontawesome_icon_name: globe
 
   - title: Don't want to create an account? You don't have to!
@@ -48,7 +48,7 @@ topbar_color: "#000000"
 topbar_transparency: 0.1
 topbar_title_color: "#ffffff"
 
-cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
+cover_image: assets/Vector.png # Replace with alternative image path or image URL.
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.8
 
